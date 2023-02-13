@@ -143,4 +143,12 @@ quantidade_lote int
 );
 
 ```
+#
+
+### MODELO FÍSICO - MER (MODELO DE ENTIDADE RELACIONAL)
+
+!['Diagrama do Modelo de Entidade Relacional'](./modelo_fisico.png)
+
+
+
 
